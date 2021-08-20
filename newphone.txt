@@ -1,0 +1,5 @@
+Lets create 
+
+function newphone(){
+    Push it to git 
+}
